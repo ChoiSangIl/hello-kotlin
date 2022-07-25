@@ -1,4 +1,4 @@
-package com.example.hellokotlin.controller
+package com.example.hellokotlin.controller.hello
 
 import org.springframework.web.bind.annotation.GetMapping
 import org.springframework.web.bind.annotation.RestController
